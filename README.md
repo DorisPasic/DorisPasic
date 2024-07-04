@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Full-stack Web- and Softwaredevelopment at DCI.
+- 🌱 Currently, I'm a Web Development student at Digital Careers Institute.
 - 👯 I’m looking to collaborate on tools for ✨neurodivergent✨ people! 
 - 💬 Ask me about my favorite animal 😺
 - 📨 How to reach me: dorispasicstudio@outlook.de or Social Media
