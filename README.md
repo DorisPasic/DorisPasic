@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-- 🌱 Currently, I'm a Web Development student at Digital Careers Institute.
+- 🌱 Currently, I'm a Full Stack Web Development Student at Digital Careers Institute.
 - 👯 I’m looking to collaborate on tools for ✨neurodivergent✨ people! 
 - 💬 Ask me about my favorite animal 😺
 - 📨 How to reach me: dorispasicstudio@outlook.de or Social Media
-- 🙋‍♀️ Pronouns: she / her
 - 🥳 Fun fact: I LOVE Upcycling
+
+
 
 <!--
 **DorisPasic/DorisPasic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
