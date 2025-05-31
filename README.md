@@ -6,7 +6,7 @@
 - 📨 How to reach me: dorispasicstudio@outlook.de or Social Media
 - 🥳 Fun fact: I LOVE Upcycling
 
-# Full Stack Web Developerin mit 15+ Jahren Erfahrung im Umgang mit Kunden & Technik, derzeit Teilnehmerin einer 1,5-jährigen Ausbildung im Bereich Full Stack Web Development mit Freude am breiten Spektrum der beruﬂichen Möglichkeiten.
+### Full Stack Web Developerin mit 15+ Jahren Erfahrung im Umgang mit Kunden & Technik, derzeit Teilnehmerin einer 1,5-jährigen Ausbildung im Bereich Full Stack Web Development mit Freude am breiten Spektrum der beruﬂichen Möglichkeiten.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorispasic&label=Profile%20views&color=0e75b6&style=flat" alt="dorispasic" /> </p>
 
